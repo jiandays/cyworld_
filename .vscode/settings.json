@@ -1,0 +1,24 @@
+{
+	"compile-hero.generate-minified-css": true,
+	"html-to-css-autocompletion.triggerCharacters": true,
+	"files.autoSave": "afterDelay",
+	"editor.autoClosingBrackets": "always",
+	"editor.autoClosingComments": "always",
+	"editor.autoClosingQuotes": "always",
+	"editor.autoIndent": "full",
+	"editor.quickSuggestions": {
+		"strings": "on",
+		"comments": "on"
+	},
+	"javascript.experimental.updateImportsOnPaste": true,
+	"typescript.preferences.preferTypeOnlyAutoImports": false,
+	"autoprefixer.formatOnSave": false,
+	"editor.defaultFormatter": "michelemelluso.code-beautifier",
+	"html-css-class-completion.enableEmmetSupport": true,
+	"cssPeek.trace.server": "messages",
+	"tailwindcss-intellisense.trace.server": "messages",
+	"css.trace.server": "messages",
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}

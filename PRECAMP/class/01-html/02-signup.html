@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ko<head>
+    <title>회원가입</title>
+    <link rel="stylesheet" href="./02-signup.css">
+</>
+<body>
+    <div class="wrapper">
+        <div class="overlap">
+            <div class="group">
+                <h2>회원가입을 위해<br>정보를 입력 해주세요</h2><br><br>
+                <div class="text-wrapper">
+                    <label for="email">* 이메일</label><br>
+                    <input type="text" id="email" placeholder="이메일을 입력해주세요"><br><br>
+                    <label for="name">* 이름</label><br>
+                    <input type="text" id="name" placeholder="이름을 입력해주세요"><br><br>
+                    <label for="password">* 비밀번호</label><br>
+                    <input class="pw" type="password" id="password" placeholder="비밀번호를 입력해주세요"><br><br>
+                    <label for="confirm-password">* 비밀번호 확인</label><br>
+                    <input class="pw" type="password" id="confirm-password" placeholder="비밀번호를 다시 입력해주세요"><br><br>
+                </div>
+                <div class="radio">
+                <input type="radio" name="gender" id="female"><label for="female">여성</label>
+                <input type="radio" name="gender" id="male"><label for="male">남성</label>
+                <br><br>
+            </div>
+                <input type="checkbox" id="agree"><label for="agree"> 이용약관 개인정보 수집 및 이용, 마케팅 활용 선택에 모두 동의 합니다.</label>
+                <br><br>
+                <button>가입하기</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
