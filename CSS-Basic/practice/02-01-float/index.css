@@ -1,5 +1,5 @@
 .float-box {
-    widht: 200px;
+    width: 200px;
     height: 200px;
     background-color: blue;
     color: #ffffff;
@@ -9,6 +9,6 @@
 
 p {
     font-size: 20px;
-    claer: right;
+    clear: right;
 }
 
