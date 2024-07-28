@@ -104,17 +104,24 @@
     float: left;
     width: calc(100% - 200px);
     height: 80px;
+    text-align: center;
 }
 .menu__ul {
+    display: inline-block;
 }
-.menu__ul li{
+.menu__ul li {
     float: left;
-    list-style: none; 
+    list-style: none;
 }
 .menu__ul li a {
+    display: block;
     color: black;
-    text-decoration: none; 
-      
+    text-decoration: none;
+    padding: 29px 20px;
+}
+
+.menu__ul li a:hover{
+    color: orange;
 }
 .user {
     float: left;

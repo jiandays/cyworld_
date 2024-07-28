@@ -1,0 +1,129 @@
+{
+	"emmet.triggerExpansionOnTab": true,
+	"editor.quickSuggestions": {
+		"strings": "on",
+		"comments": "on"
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"html.autoClosingTags": true,
+	"auto-close-tag.enableAutoCloseSelfClosingTag": true,
+	"auto-close-tag.fullMode": false,
+	"auto-close-tag.SublimeText3Mode": true,
+	"auto-close-tag.enableAutoCloseTag": true,
+	"workbench.editor.tabSizing": "shrink",
+	"window.zoomPerWindow": false,
+	"workbench.editor.splitSizing": "auto",
+	"window.density.editorTabHeight": "compact",
+	"files.autoSave": "onFocusChange",
+	"html.completion.attributeDefaultValue": "empty",
+	"prettier.bracketSameLine": true,
+	"prettier.jsxSingleQuote": true,
+	"prettier.singleQuote": true,
+	"reactSnippets.settings.prettierEnabled": true,
+	"tabout.disableByDefault": true,
+	"workbench.editor.centeredLayoutAutoResize": false,
+	"accessibility.signals.clear": {
+		"sound": "off"
+	},
+	"accessibility.signals.diffLineDeleted": {
+		"sound": "off"
+	},
+	"accessibility.signals.diffLineInserted": {
+		"sound": "off"
+	},
+	"accessibility.signals.diffLineModified": {
+		"sound": "off"
+	},
+	"editor.wordWrap": "on",
+	"accessibility.signals.terminalCommandFailed": {
+		"sound": "off"
+	},
+	"accessibility.signals.terminalCommandSucceeded": {
+		"sound": "off"
+	},
+	"accessibility.signals.voiceRecordingStarted": {
+		"sound": "off"
+	},
+	"accessibility.signals.voiceRecordingStopped": {
+		"sound": "off"
+	},
+	"accessibility.signals.terminalQuickFix": {
+		"sound": "off"
+	},
+	"accessibility.signals.taskCompleted": {
+		"sound": "off"
+	},
+	"accessibility.signals.taskFailed": {
+		"sound": "off"
+	},
+	"accessibility.signals.terminalBell": {
+		"sound": "off"
+	},
+	"accessibility.signals.chatRequestSent": {
+		"sound": "off"
+	},
+	"accessibility.signals.lineHasWarning": {
+		"sound": "off"
+	},
+	"accessibility.signals.noInlayHints": {
+		"sound": "off"
+	},
+	"accessibility.signals.chatResponseReceived": {
+		"sound": "off"
+	},
+	"accessibility.signals.lineHasBreakpoint": {
+		"sound": "off"
+	},
+	"accessibility.signals.progress": {
+		"sound": "off"
+	},
+	"accessibility.signals.notebookCellCompleted": {
+		"sound": "off"
+	},
+	"accessibility.signals.lineHasError": {
+		"sound": "off"
+	},
+	"accessibility.signals.lineHasFoldedArea": {
+		"sound": "off"
+	},
+	"accessibility.signals.notebookCellFailed": {
+		"sound": "off"
+	},
+	"accessibility.signals.onDebugBreak": {
+		"sound": "off"
+	},
+	"accessibility.signals.positionHasError": {
+		"sound": "off"
+	},
+	"accessibility.signals.positionHasWarning": {
+		"sound": "off"
+	},
+	"accessibility.signals.lineHasInlineSuggestion": {
+		"sound": "off"
+	},
+	"outline.collapseItems": "alwaysExpand",
+	"diffEditor.renderMarginRevertIcon": true,
+	"workbench.editor.autoLockGroups": {
+		"default": true,
+		"imagePreview.previewEditor": true,
+		"vscode.audioPreview": true,
+		"vscode.videoPreview": true,
+		"java.formatterSettingsEditor": true,
+		"mainThreadWebview-markdown.preview": true
+	},
+	"workbench.editor.alwaysShowEditorActions": true,
+	"editor.multiCursorLimit": 10000,
+	"workbench.editor.revealIfOpen": true,
+	"workbench.editor.doubleClickTabToToggleEditorGroupSizes": "off",
+	"typescriptHero.verbosity": "error",
+	"intellicodeApiExamples.loggingLevel": "ERROR",
+	"turboConsoleLog.logType": "error",
+	"liveshare.diagnosticLoggingLevel": "Error",
+	"material-icon-theme.logLevel": "error",
+	"autoDocstring.logLevel": "Debug",
+	"java.debug.logLevel": "error",
+	"gitlens.outputLevel": "error",
+	"testing.countBadge": "failed",
+	"terminal.integrated.environmentChangesIndicator": "off",
+	"extensions.experimental.issueQuickAccess": false
+}
